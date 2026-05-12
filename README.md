@@ -1,3 +1,3 @@
 # CRUDS
 Management system 
-my first project HTML, JavaScript, CSS
+my first project using HTML, JavaScript, CSS
